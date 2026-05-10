@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Full Stack Web Developer. Specialised in JavaScript.
+- Full Stack Web Developer. Specialised in JavaScript, React, and Python.
 
 
 ## 🧠 My Focus Areas
@@ -91,8 +91,6 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=Mosfaqur99)
-<br/>
 
 ## 🔗 Connect with Me
 <p align="center">
